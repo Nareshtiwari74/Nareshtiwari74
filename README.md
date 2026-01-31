@@ -56,11 +56,11 @@ Built a robust pipeline for replicating MongoDB data into Apache Iceberg for sca
 
 ## 🎭 Meme Corner: Debugging Life 🤖
 ### Coding & Debugging in Action
-<p align="left">
+<!-- <p align="left">
   <img src="https://i.imgflip.com/4t0m5.jpg" width="24%" height=200px>
 <p align="left" style="margin-top: -20px;">
   <img src="https://i.imghippo.com/files/MHQa1270sGo.jpg" width="24%" height="200px">
-</p>
+</p> -->
 
 </p>
 
