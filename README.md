@@ -54,8 +54,7 @@ Built a robust pipeline for replicating MongoDB data into Apache Iceberg for sca
 
 ---
 
-## 🎭 Meme Corner: Debugging Life 🤖
-### Coding & Debugging in Action
+
 <!-- <p align="left">
   <img src="https://i.imgflip.com/4t0m5.jpg" width="24%" height=200px>
 <p align="left" style="margin-top: -20px;">
@@ -66,7 +65,6 @@ Built a robust pipeline for replicating MongoDB data into Apache Iceberg for sca
 
 
 
-### Tony Stark & Marvel Coding Memes
 <p align="center">
   <!-- <img src="https://i.imghippo.com/files/WXc7079U.png" width="24%" height=300px>
   <img src="https://i.imghippo.com/files/xldM5101z.png" width="24%" height=300px>
