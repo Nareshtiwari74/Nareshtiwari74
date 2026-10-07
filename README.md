@@ -13,8 +13,8 @@ Currently deepening my foundations in **data & ML** (preparing for GATE DA), aim
 
 A full-stack, **deployed** file storage service — like a small Amazon S3.
 
-🔗 **Live app:** https://distributed-file-storage-two.vercel.app
-🔗 **API:** https://distributed-file-storage-b26g.onrender.com
+🔗 **Live app:** https://storage.nareshdev.space
+🔗 **API:** https://api1.nareshdev.space
 📂 **Code:** https://github.com/Nareshtiwari74/distributed-file-storage
 
 - **JWT auth** — register/login, BCrypt, per-user ownership
